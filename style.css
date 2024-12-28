@@ -68,7 +68,7 @@ p{
     }
 }
 
-@media (max-width:480px){
+@media (max-width:360px){
     .container{
         grid-template-columns: 1fr;
     }
